@@ -16,7 +16,7 @@ Message: ".$message."
 ";
 
 mail ("pmaconstructionscompany@gmail.com" , "New Message", $email_message);
-header("location:mail-success.html");
+header("location:https://asllah.github.io/pma-construction-company/mail-success.html");
 ?>
 
 
