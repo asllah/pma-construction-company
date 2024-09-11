@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="214" height="44" viewBox="0 0 214 44">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #2f66bd;
+      }
+
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        font-size: 51.507px;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: Manrope;
+      }
+
+      .cls-3 {
+        font-size: 40.153px;
+        font-weight: 500;
+      }
+
+      .cls-4 {
+        font-weight: 600;
+      }
+    </style>
+  </defs>
+  <image id="PMA_LOGO_02_construction_" data-name="PMA LOGO 02 (construction)" x="2" y="8" width="77" height="33" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAhCAYAAACcPyaRAAAFLklEQVRoge2ZaYhWVRjHf/PqNE6NOlnZSk1mZoGNZmWb5aRFUWELVGIbVIZ9aJGgLCqIyCgoUTAhWgiDMNvpQ4UaUzbRqpJTOmabLRKOOVpuzUw88b9yOZ1zt/fNhmb+n973nHuee87/PPutapy2mASMAMYDxwIHAFVAO/At8CHwKbArYf3+wFXA+cBoYKjGfwNWAG8DC4DvE2QcAlwDnAs0AkM0bvtYDrwlGT8lHSSGvYCxwDigwZHXBrQAnwPdIQEh0pqAh4BTUjbwC/AoMNchb2/gPuBWYECKjE7gaWAmsDE2Plh7mAb0T5Fh754P3AtsDjxTC9wO3CYFSMJa4GHgGaDLfc4lzW5hDnBTilAXduMXAeuBo4HXpJ158CNwCfAxcDzwOnBEThlmAZOBlc74CcBC4Kic8t4DrnS1uBT7XQO8WYAwZHpmQvsBHxQgzHAo8C5wgTabRNifgfEGrR0TGzsbeL8AYcg1fQQMjw/GSXsKmFRAMNISW/8qMLCgDGTWzyWYtJnv/cAU+TIfBgFvyJ8eJ62vLWNPdpmLY75vt6+4ApgaWGQ23SzGtwPHAOfJ50S4B7gTOEMOvtGRsUsvXiF5IyRjH8/7bHNferT1ReBBoFWathS4GrgLONBz0DnSuLrAuTbLstbKyswlTJSLcnE48IR4+tunGXFfa8KFRcgbgFXOeJ0c90xFvtPkT6o1b77tMP22CHmjJ0LuCzwi+aFD2cVsAG4BXlLQcGGm8zhwYUCOC7u0WQoyfzhztufZwGWBtacaJ/0OGnvtZEUoF3aT5wA/e+Z2AktExDpglFKCCHYJBwOvABcrxXCxXWZUI9/hok3+cYr8VCgFaJfG/CrtHBx4DsmYKi30pUod0mgz7ZM983bRC03TFnhMc6tucEPCBiLUiuBxsbEdukVzvptS1ptf/cwxacuT7gaWAVsy7AG5GrOWGVKCas8zlpZMzyCrn/Ywyhm3i64rOYeN8GxGwpDWjXbGTHsey0AYMpe5sf8/AC9Irs8cQ+iWj2yW83c1s1u5VxZ0Bp61ADXEbudIz+Q7OTZrL9gmouJYlEPGstjvoYqQVRmS0DhK8pFnaaxLGhNhNfBdDnkhDgb2dwRHyFqSRDCNqnfGQrmUD3GtjpOfVKK5iEgKpRftOWQhH9np4adUCizIc+BqOX0XO3LICNZ5OfGPkieGhgLytvoGQ6TlwaRAMprVge8pWOF/UiXelURaFn9i5v2AZ3xTQuH8X2JWRkWp9/jo3UgSMDuQ8EYwwp4ETvTMLaqgyVUSExWpfX48gpWBLyeVXkmkNahfNt0pRUoqgi3hvM6zrlvJY0/FzUpLmjwNi8tV6jUl7T2tT2WZ8TyVKauV3A2PF68eWA/qix5MGir7lqhSaZPmjVTDIBVppEWICto0tKnRlxdJUa9cbFTLyof6IsGhEtEzwnp1LjoKrO1QKVYOLKda41l/acbKxIcW32ClSGvWja0rQ8YMVRblYJ4nIV6pbwKfFJB7h08JkkhrzlD7rVIwmKDvBeVguXK+pI8safhKH3Hczsw3qrGvVz8uDUvlv+18Z7o+2rocvtRgjA4xSL+HyfkbyVvUqW1VC6jSqFGbabz6dXmK9ggDRN7pqmN/d+ZHqskwTK2kbpnwGpmkqwAlNVgtqs5PI60PHlQyEPQa+Ejb2QPrxh6F3kBaSZ2YilmVL7mt+peTzT2Nrkqfx8f+tgINu14FH2nP/880reJwSWvRh98+JCAirVWF9gRPItgHB9GHlT5zzArgLxstHqNKjl2FAAAAAElFTkSuQmCC"/>
+  <g>
+    <path class="cls-1" d="M45.109,21.643h1.8v2.215h-1.8V21.643Z"/>
+    <path id="Rectangle_1_copy_2" data-name="Rectangle 1 copy 2" class="cls-1" d="M47.294,21.643H49.06v2.215H47.294V21.643Z"/>
+    <path id="Rectangle_1_copy_3" data-name="Rectangle 1 copy 3" class="cls-1" d="M45.109,24.158h1.8v2.215h-1.8V24.158Z"/>
+    <path id="Rectangle_1_copy_3-2" data-name="Rectangle 1 copy 3" class="cls-1" d="M47.294,24.158H49.06v2.215H47.294V24.158Z"/>
+  </g>
+  <text id="Construction_" data-name="Construction " class="cls-2" transform="translate(85.166 20.582) scale(0.372)">Construction</text>
+  <text id="company_" data-name="company " class="cls-3" transform="translate(86.191 31.855) scale(0.372)">company<tspan class="cls-4"> </tspan></text>
+</svg>
