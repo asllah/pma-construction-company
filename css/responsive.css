@@ -126,7 +126,7 @@ Version:	1.1
 	padding-top: 15px;
 }
 .slider .single-slider {
-	height: 600px;
+	height: 700px;
 }
 .schedule {
 	background: #ffffff;
@@ -1125,7 +1125,7 @@ Version:	1.1
 }
 .slider .single-slider h1 {
 	color: #2C2D3F;
-	font-size: 28px;
+	font-size: 24px;
 	font-weight:bold;
 	margin: 0;
 	padding: 0;
