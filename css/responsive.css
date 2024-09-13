@@ -1125,7 +1125,7 @@ Version:	1.1
 }
 .slider .single-slider h1 {
 	color: #2C2D3F;
-	font-size: 38px;
+	font-size: 28px;
 	font-weight:bold;
 	margin: 0;
 	padding: 0;
@@ -1137,7 +1137,7 @@ Version:	1.1
 	font-weight: 400;
 }
 .slider .single-slider .text {
-	margin-top: 80px;
+	margin-top: 30px;
 }
 .slider .single-slider .button .btn{
 	color:#fff;
