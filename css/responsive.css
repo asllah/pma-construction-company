@@ -378,7 +378,7 @@ Version:	1.1
 
 }
 /* Mobile Screen */
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 768px) {
 .header.sticky{
 	
 }
@@ -1060,7 +1060,7 @@ Version:	1.1
 
 }
 /* Mobile Screen */
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 480px) {
 
 
 .section{
