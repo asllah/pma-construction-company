@@ -157,7 +157,7 @@ Version:	1.1
 }
 .slider .single-slider h1 {
 	font-size: 24px;
-	font-weight: 600;
+	font-weight: bold;
 	line-height: 24px;
 }
 .slider .single-slider .text {
@@ -628,7 +628,7 @@ Version:	1.1
 }
 .slider .single-slider h1 {
 	font-size: 24px;
-	font-weight: 600;
+	font-weight: bold;
 	line-height: 24px;
 }
 .slider .single-slider .text {
@@ -1126,7 +1126,7 @@ Version:	1.1
 .slider .single-slider h1 {
 	color: #2C2D3F;
 	font-size: 24px;
-	font-weight:600;
+	font-weight:bold;
 	margin: 0;
 	padding: 0;
 	line-height: 24px;
