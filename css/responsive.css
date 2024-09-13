@@ -1119,24 +1119,33 @@ Version:	1.1
 	top:0;
 	height:100%;
 	width:100%;
-	background:#fff;
-	opacity:50;
+	background:#7f9cce;
+	opacity:0.4;
+}
 }
 .slider .single-slider h1 {
-	font-size: 20px;
-	font-weight: 600;
-	line-height: 2px;
+	color: #2C2D3F;
+	font-size: 38px;
+	font-weight:bold;
+	margin: 0;
+	padding: 0;
+	line-height: 42px;
 }
 .slider .single-slider p{
-	font-size:13px;
+	color: #2C2D3F;
+	margin-top: 10px;
+	font-weight: 400;
 }
 .slider .single-slider .text {
-	margin-top: 20px;
+	margin-top: 80px;
 }
 .slider .single-slider .button .btn{
+	color:#fff;
+	background:#2f66bd;
+	font-weight:500;
+	display:inline-block;
 	margin:0;
-	width:100%;
-	margin-bottom:10px;
+	margin-right:10px;
 }
 .slider .single-slider .button .btn:last-child{
 	margin-bottom:0;
